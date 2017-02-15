@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_671fc35d2177d171d93fc144721f7eb0d157f4ac\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_b9221f618f1c28e4cf4de32cfb2ffc2fa5aaae55\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_58c7ed44e2f0c3da94c6cb2ebf421727a48e305f\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aa6f74194806099bd3ea8e9ce3d9be4aa7d67e1c">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zhy-okhttputils-2.4.1_6ca839ee9e3d0abded31718f777c988013dbff21\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_fb4b08d9fcafa2cb7eaf033e9ba2533bb294a905\classes.dex" />
+    </item>
+    <item
+        jar="D:\android-studio2.1.1\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_f3aa02034fba7417cde4cb6f725e7d51b0f244d4\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.2.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0724e4d93c85866c8953b74776fa320efa122205">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jcodecraeer-xrecyclerview-1.2.7_adbfb9b310af4755f23e1b07d41d8e0472f4e382\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.2.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e39dd45427d2ba136c82ed1946f80dd3dff16695">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.2.6_590aaa18851cd00ff2cc2cbdba454c8c668fc504\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_9c285fa6f42dab355798582f79422f6fb2d85d3a\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_158beae9e9a6743c6458604667dd42a5b16f46fd\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d7168b1d8644e69d0cc2c58072fde6801694b2ca">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3f22bcf04e83c9cbd5eaf76e7075acc054f9cfd9\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b95e425b62e92bc22cad7d577bc97351121b33f0">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65f0e0252c1b0c4f93749c5ce9d4f70e22a775ae\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.mani\ThinDownloadManager\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="096d46fed1f5b5320c5f76fca225fb899ff8843a">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mani-ThinDownloadManager-1.2.4_c11720d412372f22e172e937d7ff6ecc95951b98\classes.dex" />
+    </item>
+    <item
+        jar="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_1ef1483149f1dc6d9722438b8867faaa91fe4f77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kai.gao\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_7214c887056df912d840d16cb0dc7946b1cb7bb5\classes.dex" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_efac4ae8d238167023a14c772a40803307ad2541\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kai.gao\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_56afcb53b1527a760656a1838a481622f3c52f27\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kai.gao\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_d75b118b0fde21608288f70d09043ffd9fa05c29\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kai.gao\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\xuexitools\MaterialDesignDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_2209540a74eaa90df14b0bf6ea3e324153883db6\classes.dex" />
+    </item>
+
+</items>
